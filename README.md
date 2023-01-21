@@ -3,18 +3,21 @@
 <h1 align="center"><b>Hi , I'm Mohamed Yasser </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Mobile Developer(Flutter)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedyasser951&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedyasser951" /> </p>
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedyasser951&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedyasser951" /> </p>
 
 <br>
 
+<h3 align="left">About me:</h3>
+
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+- 🎓 Computer Science Student at Mansoura University.
 
-- 🌱 I’m currently learning Flutter
+- 🚧 I'm currently focused on Mobile Development & AI .
 
 - 📫 How to reach me **mohamedhcjdivdjvy@gmail.com**
+
+- 🍀 Ask me about anything, I will be happy to help.
 
 
 
