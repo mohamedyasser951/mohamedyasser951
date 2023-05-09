@@ -19,7 +19,7 @@
 
 - 🚧 I'm currently focused on Mobile Development & AI .
 
-- 📫 How to reach me ** mohamed81yasser@gmail.com**
+- 📫 How to reach me **mohamed81yasser@gmail.com**
 
 - 🍀 Ask me about anything, I will be happy to help.
 
