@@ -16,10 +16,12 @@
 
 
 
+- Mobile Application Developer with a great passion for learning and gaining many
+  experiences from many sources. I am fond of programming and application life cycles.
+  
+- How to reach me **mohamed81yasser@gmail.com**
 
-- 📫 How to reach me **mohamed81yasser@gmail.com**
-
-- 🍀 Ask me about anything, I will be happy to help.
+- Ask me about anything, and I will be happy to help.
 
 
 
