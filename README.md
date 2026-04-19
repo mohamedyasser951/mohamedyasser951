@@ -17,31 +17,6 @@
 
 ---
 
-```dart
-class MohamedYasser extends FlutterDeveloper {
-
-  final String location  = "Egypt 🇪🇬";
-  final String focus     = "Cross-platform Mobile Applications";
-  final String email     = "mohamed81yasser@gmail.com";
-
-  final List<String> stack = [
-    "Flutter", "Dart", "BLoC", "Clean Architecture",
-    "Firebase", "REST APIs", "WebSockets", "GetIt",
-  ];
-
-  final Map<String, bool> status = {
-    "open_to_work"     : true,
-    "loves_code_review": true,
-    "always_learning"  : true,
-  };
-
-  String get motto =>
-    "Ask me anything — I'll be happy to help 🚀";
-}
-```
-
----
-
 ## ◈ &nbsp;Expertise
 
 <table>
@@ -157,11 +132,18 @@ Production-ready project template with Clean Architecture, BLoC, GetIt/Injectabl
 
 ---
 
-## ✦ &nbsp;Trophies
+## ✦ &nbsp;Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedyasser951&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" width="100%" />
+| &nbsp; | Milestone | Status |
+|:---:|---|:---:|
+| 📦 | Published apps on Play Store & App Store | ✅ |
+| 🏛 | Clean Architecture on production-scale apps | ✅ |
+| ⚡ | Real-time WebSocket systems shipped | ✅ |
+| 🌍 | Multi-language apps with full RTL support | ✅ |
+| ✍️ | Technical writing on Medium | 🟢 Active |
+| 🔓 | Open source contributions | 🟢 Active |
 
 </div>
 
