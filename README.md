@@ -1,107 +1,80 @@
-# Hi there 👋, I'm Mohamed Yasser
+# Mohamed Yasser
 
-### Flutter Software Engineer | Mobile App Developer
+Flutter Software Engineer specializing in building scalable, maintainable, and high-performance mobile applications.
 
-Passionate Flutter Developer with experience building scalable, high-performance mobile applications for Android and iOS. I enjoy transforming business requirements into elegant digital solutions while focusing on clean architecture, maintainable code, and exceptional user experiences.
-
----
-
-## 🚀 About Me
-
-- 📱 Flutter Mobile Application Developer
-- 💡 Passionate about Clean Architecture & State Management
-- 🔥 Experienced with Bloc/Cubit, Provider, and Riverpod
-- 🏗️ Building scalable and maintainable applications
-- 🌱 Continuously learning new technologies and best practices
-- 🤝 Open to collaboration on Flutter and Mobile Development projects
+Experienced in designing production-ready applications using Clean Architecture, state management solutions, API integrations, offline-first strategies, and modern software engineering practices.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 Professional Summary
 
-### Mobile Development
-- Flutter
-- Dart
-- Android
-- iOS
-
-### State Management
-- Bloc / Cubit
-- Provider
-- Riverpod
-
-### Backend & APIs
-- REST APIs
-- Firebase
-- Supabase
-- WebSockets
-
-### Local Storage
-- Hive
-- Shared Preferences
-- SQLite
-
-### Architecture
-- Clean Architecture
-- MVVM
-- Repository Pattern
-- Dependency Injection
-
-### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-- Android Studio
-- Figma
+- 4+ years of experience in mobile application development
+- Strong expertise in Flutter and Dart
+- Experience building enterprise, education, fintech, logistics, and management systems
+- Skilled in software architecture, performance optimization, and code quality
+- Passionate about creating reliable products that solve real business problems
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Technical Expertise
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 💼 Featured Projects
-
-### 📚 Education Platform
-- Online learning platform with quizzes, exams, assignments, and offline support.
-- Implemented local caching using Hive and synchronization mechanisms.
-
-### 🚗 Smart Car Wash Management System
-- Vehicle tracking and customer management system.
-- License plate recognition integration and automated workflow management.
-
-### 💰 Financial & Trading Management App
-- Inventory, sales, purchases, and financial transaction management.
-- Advanced reporting and analytics dashboard.
+| Category | Technologies |
+|-----------|-------------|
+| Mobile Development | Flutter, Dart, Android, iOS |
+| State Management | Bloc/Cubit, Riverpod, Provider |
+| Architecture | Clean Architecture, MVVM, SOLID, Repository Pattern |
+| Backend Integration | REST APIs, GraphQL, WebSockets, Firebase, Supabase |
+| Local Storage | Hive, SQLite, SharedPreferences, Secure Storage |
+| Testing | Unit Testing, Widget Testing, Integration Testing |
+| CI/CD | GitHub Actions, GitLab CI/CD, Fastlane |
+| Tools | Git, Android Studio, VS Code, Postman, Figma |
+| Security | JWT, SSL Pinning, Secure Storage |
+| Methodologies | Agile, Scrum, Code Review, Technical Documentation |
 
 ---
 
-## 🎯 What I Focus On
+## 🚀 Selected Projects
 
-- Clean Code
+### Smart Education Platform
+A comprehensive learning platform supporting:
+
+- Online exams
+- Assignments
+- Interactive quizzes
+- Offline-first synchronization
+- Performance analytics
+- Student progress tracking
+
+### Smart Car Wash Management System
+
+- Vehicle tracking
+- Customer management
+- Service monitoring
+- Financial reporting
+- License Plate Recognition (LPR) integration
+
+### Trading & Financial Management System
+
+- Inventory management
+- Purchase and sales operations
+- Financial transactions
+- Profitability reports
+- Role-based access control
+
+---
+
+## 🎯 Engineering Interests
+
+- Mobile Architecture
 - Performance Optimization
 - Offline-First Applications
-- Scalable Architecture
-- User Experience
-- Software Quality
+- Software Design Patterns
+- CI/CD Automation
+- Product Engineering
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 - LinkedIn: www.linkedin.com/in/mohamedyasser814
-- GitHub: https://github.com/YOUR_USERNAME
 - Email: mohamed81yasser@gmail.com
-
----
-
-### ⚡ Favorite Quote
-
-> "First, solve the problem. Then, write the code."
-
-Thanks for visiting my profile! 🚀
